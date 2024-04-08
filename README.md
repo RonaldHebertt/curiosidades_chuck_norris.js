@@ -1,0 +1,1 @@
+# curiosidades_chuck_norris.js
